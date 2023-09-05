@@ -13,5 +13,5 @@ git remote add origin https://github.com/mellolauro/projeto_aprender
 
 $ git push origin main
 
-teste de envio
+teste de envio, estou com problemas de permissão.
 
