@@ -1,0 +1,15 @@
+git init - inicia um projeto com GIT
+
+git init
+git status
+git add .
+git commit -m "texto" .
+
+git config --global user.email "you@email"
+
+git config --global user.name "your name"
+
+git remote add origin https://github.com/mellolauro/projeto_aprender
+
+$ git push origin main
+
