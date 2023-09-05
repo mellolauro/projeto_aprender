@@ -1,5 +1,4 @@
 git init - inicia um projeto com GIT com git hub
-
 git init
 git status
 git add .
